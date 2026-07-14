@@ -26,3 +26,4 @@ CMakeLists.txt.user*
 .idea
 .vscode
 /cmake-build*
+.ccls-cache
